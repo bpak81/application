@@ -1,0 +1,22 @@
+WEEKLY CLIENT CHECK-IN
+"How it works: each week, find the column with this week's date and answer every question down that column. Your coach sees your answers the moment you enter them. Columns B–D update automatically — leave them alone."
+
+Question,Latest,Change vs last wk,Trend,"=DATE(2026,8,17)",=E4+7,=F4+7,=G4+7,=H4+7,=I4+7,=J4+7,=K4+7,=L4+7,=M4+7,=N4+7,=O4+7,=P4+7,=Q4+7,=R4+7,=S4+7,=T4+7,=U4+7,=V4+7,=W4+7,=X4+7,=Y4+7,=Z4+7,=AA4+7,=AB4+7,=AC4+7
+TRAINING
+Mobility training — sessions completed this week,"=IFERROR(LET(v,FILTER($E6:$AD6,$E6:$AD6<>""""),INDEX(v,1,COLUMNS(v))),"""")","=IFERROR(LET(v,FILTER($E6:$AD6,$E6:$AD6<>""""),n,COLUMNS(v),IF(n<2,"""",INDEX(v,1,n)-INDEX(v,1,n-1))),"""")","=IFERROR(SPARKLINE(FILTER($E6:$AD6,$E6:$AD6<>"""")),"""")"
+Strength workouts — sessions completed this week,"=IFERROR(LET(v,FILTER($E7:$AD7,$E7:$AD7<>""""),INDEX(v,1,COLUMNS(v))),"""")","=IFERROR(LET(v,FILTER($E7:$AD7,$E7:$AD7<>""""),n,COLUMNS(v),IF(n<2,"""",INDEX(v,1,n)-INDEX(v,1,n-1))),"""")","=IFERROR(SPARKLINE(FILTER($E7:$AD7,$E7:$AD7<>"""")),"""")"
+Total working sets completed this week,"=IFERROR(LET(v,FILTER($E8:$AD8,$E8:$AD8<>""""),INDEX(v,1,COLUMNS(v))),"""")","=IFERROR(LET(v,FILTER($E8:$AD8,$E8:$AD8<>""""),n,COLUMNS(v),IF(n<2,"""",INDEX(v,1,n)-INDEX(v,1,n-1))),"""")","=IFERROR(SPARKLINE(FILTER($E8:$AD8,$E8:$AD8<>"""")),"""")"
+"Mood before training, on average (1–10)","=IFERROR(LET(v,FILTER($E9:$AD9,$E9:$AD9<>""""),INDEX(v,1,COLUMNS(v))),"""")","=IFERROR(LET(v,FILTER($E9:$AD9,$E9:$AD9<>""""),n,COLUMNS(v),IF(n<2,"""",INDEX(v,1,n)-INDEX(v,1,n-1))),"""")","=IFERROR(SPARKLINE(FILTER($E9:$AD9,$E9:$AD9<>"""")),"""")"
+"Mood after training, on average (1–10)","=IFERROR(LET(v,FILTER($E10:$AD10,$E10:$AD10<>""""),INDEX(v,1,COLUMNS(v))),"""")","=IFERROR(LET(v,FILTER($E10:$AD10,$E10:$AD10<>""""),n,COLUMNS(v),IF(n<2,"""",INDEX(v,1,n)-INDEX(v,1,n-1))),"""")","=IFERROR(SPARKLINE(FILTER($E10:$AD10,$E10:$AD10<>"""")),"""")"
+BODY
+Body weight (lb),"=IFERROR(LET(v,FILTER($E12:$AD12,$E12:$AD12<>""""),INDEX(v,1,COLUMNS(v))),"""")","=IFERROR(LET(v,FILTER($E12:$AD12,$E12:$AD12<>""""),n,COLUMNS(v),IF(n<2,"""",INDEX(v,1,n)-INDEX(v,1,n-1))),"""")","=IFERROR(SPARKLINE(FILTER($E12:$AD12,$E12:$AD12<>"""")),"""")"
+Waist measurement (in),"=IFERROR(LET(v,FILTER($E13:$AD13,$E13:$AD13<>""""),INDEX(v,1,COLUMNS(v))),"""")","=IFERROR(LET(v,FILTER($E13:$AD13,$E13:$AD13<>""""),n,COLUMNS(v),IF(n<2,"""",INDEX(v,1,n)-INDEX(v,1,n-1))),"""")","=IFERROR(SPARKLINE(FILTER($E13:$AD13,$E13:$AD13<>"""")),"""")"
+CARDIO
+Cardio — sessions completed this week,"=IFERROR(LET(v,FILTER($E15:$AD15,$E15:$AD15<>""""),INDEX(v,1,COLUMNS(v))),"""")","=IFERROR(LET(v,FILTER($E15:$AD15,$E15:$AD15<>""""),n,COLUMNS(v),IF(n<2,"""",INDEX(v,1,n)-INDEX(v,1,n-1))),"""")","=IFERROR(SPARKLINE(FILTER($E15:$AD15,$E15:$AD15<>"""")),"""")"
+Cardio — type (walk / bike / row / etc.),"=IFERROR(LET(v,FILTER($E16:$AD16,$E16:$AD16<>""""),INDEX(v,1,COLUMNS(v))),"""")",,
+Cardio — average length of each session (min),"=IFERROR(LET(v,FILTER($E17:$AD17,$E17:$AD17<>""""),INDEX(v,1,COLUMNS(v))),"""")","=IFERROR(LET(v,FILTER($E17:$AD17,$E17:$AD17<>""""),n,COLUMNS(v),IF(n<2,"""",INDEX(v,1,n)-INDEX(v,1,n-1))),"""")","=IFERROR(SPARKLINE(FILTER($E17:$AD17,$E17:$AD17<>"""")),"""")"
+HEART & RECOVERY
+Resting heart rate (bpm),"=IFERROR(LET(v,FILTER($E19:$AD19,$E19:$AD19<>""""),INDEX(v,1,COLUMNS(v))),"""")","=IFERROR(LET(v,FILTER($E19:$AD19,$E19:$AD19<>""""),n,COLUMNS(v),IF(n<2,"""",INDEX(v,1,n)-INDEX(v,1,n-1))),"""")","=IFERROR(SPARKLINE(FILTER($E19:$AD19,$E19:$AD19<>"""")),"""")"
+Heart rate recovery — bpm drop 1 min after peak effort,"=IFERROR(LET(v,FILTER($E20:$AD20,$E20:$AD20<>""""),INDEX(v,1,COLUMNS(v))),"""")","=IFERROR(LET(v,FILTER($E20:$AD20,$E20:$AD20<>""""),n,COLUMNS(v),IF(n<2,"""",INDEX(v,1,n)-INDEX(v,1,n-1))),"""")","=IFERROR(SPARKLINE(FILTER($E20:$AD20,$E20:$AD20<>"""")),"""")"
+NOTES
+"Wins, challenges, anything your coach should know","=IFERROR(LET(v,FILTER($E22:$AD22,$E22:$AD22<>""""),INDEX(v,1,COLUMNS(v))),"""")",,
