@@ -1,24 +1,29 @@
-# MHS Application — FINAL (2026-10-18)
+# MHS Application — CONSENSUS BUILD (2026-10-28)
 
-**Base:** the Aug 3 locked build (`EHS-Application-FINAL.md` v2) — the most recent version Ben approved, carrying his voice corrections — updated per the Sep–Oct rulings: **men 35+, no cost/investment questions, Ben's "tried before" line added, MHS naming, single $84K program (never shown on the form).** Structure unchanged: tap-only momentum → contact capture mid-form → depth → calendar → post-booking capture. Every question listed with its FIRE (psychological) and READ (diagnostic) function and the reason it's in. Questions considered and cut are in `MHS-MASTER-SESSION-RECORD.md` §4.
+**What this is:** the final application, full client-facing copy, timed per part. Architecture: the commitment ladder (depth never exceeds commitment shown) · sections mirror the sales call's four topics so the call opens half-done · every question carries instructional micro-copy that teaches him how to answer AND names what we do with it — that's the education thread. The deep material (90-day domino, 12-month vision, complaints, limitation, 10-area grid) lives in the post-booking **Coach Brief**, not here.
 
-**Register rules (Ben, Aug 3):** ask objectively — no emotional manipulation; when Ben gives a line, that's the line; selectivity carried by facts, never adjectives; the energy is *he convinces us*; banned phrase: "most of."
+**The call frame it feeds (Ben, verbatim):** *"We have 20 minutes and need to get through four things: your history, your goals, your obstacles, and why it's important and why now is the time. Then if we can help, I'll tell you how we can help."*
 
----
-
-## OPENING FRAME
-
-**PRIVATE CLIENT APPLICATION**
-We take ten new men per month. This is how we decide who gets a call.
-Four minutes. Answer as the man you actually are — not the one you present.
+**Honest total time: ~5 minutes** (taps ~90 sec; three short written answers carry the rest). The intro says five, not four — we state what's true.
 
 ---
 
-## STEP 1 — Momentum (~60 seconds, all taps)
+## INTRO SCREEN · 15 sec
+
+> **PRIVATE CLIENT APPLICATION**
+> We take ten new men per month. This is how we decide who gets a call.
+> Five minutes. Answer as the man you actually are — not the one you present.
+>
+> [ Begin ]
+
+---
+
+## PART 1 — THE SNAPSHOT · ~90 sec, all taps
+
+*Section frame, small text above Q1:* **Five taps. This is how we place you against the standards for a man your age.**
 
 **Q1 — Age**
 Under 35 · 35–39 · 40–44 · 45–49 · 50–54 · 55–59 · 60+
-*Read: cohort norms. Fire: easy first tap (foot-in-the-door). Changed: gate moved from 40 to 35 (Sep 28 ruling); bands extended down.*
 
 **Q2 — Which of these sounds most like you right now?**
 - I know what to do. I just don't execute it consistently.
@@ -26,7 +31,6 @@ Under 35 · 35–39 · 40–44 · 45–49 · 50–54 · 55–59 · 60+
 - My body has gotten more complicated with age, and guessing isn't working anymore.
 - I've put this off for years, and it's starting to cost me.
 - Other: ___
-*Fire: identity mirror — he locates himself. Read: first archetype signal (Coiled / integrator / complexity / avoider).*
 
 **Q3 — What's the biggest bottleneck stealing your effectiveness?** *(choose the one that stings)*
 - My body — energy, weight, strength, pain
@@ -34,36 +38,50 @@ Under 35 · 35–39 · 40–44 · 45–49 · 50–54 · 55–59 · 60+
 - Fog and indecision — the mind isn't sharp
 - No system, no standard — winging it and knowing it
 - Other: ___
-*Read: constraint category, feeds call opening. Fire: "the one that stings" licenses honesty.*
 
-*Interstitial (after Q3):* We don't judge anything you say. We're here to stand with you in the heat of battle, until the break of progress occurs. Whichever you chose — it's the one place you've accepted a standard you'd never accept in business. That gap is where we work.
+*Interstitial after Q3 (no input — one beat):*
+> We don't judge anything you say. We're here to stand with you in the heat of battle, until the break of progress occurs.
+> Whichever you chose — it's the one place you've accepted a standard you'd never accept in business. That gap is where we work.
+> The men who succeed here train four to five times a week, follow the plan they're given, and are done waiting.
 
-**Q4 — What matters most in the next 12 months?** *(choose your top two)*
-Get lean — visible, athletic · Lose significant weight · Get strong — measurably, sustainably · Peak capacity — perform at my ceiling in every domain · Unify the system — one plan instead of ten opinions · Energy and daily performance · Longevity — play the long game properly
-*Fire: forced trade-off = effortful choice deepens commitment. Read: clean primary/secondary goal (→ Timelines + WANT).*
+**Q4 — What matters most to you in the next 12 months?** *(choose your top two)*
+The way you look · The way you feel · The way you perform · Healthspan and longevity
+*Micro-copy: Your top two set the order your coach builds in. Everything gets addressed; these go first.*
 
-## STEP 2 — CONTACT
+**Q5 — How confident are you that you'll succeed this time?**
+- Completely — I just need the right system
+- Confident, if the plan is actually built for me
+- Honestly, 50-50
+- I've been burned enough to doubt it
+*Micro-copy: There's no wrong answer. Your advisor calibrates the plan — and the proof you'll need — to this.*
 
-Your answers are building your file. Leave your details so we can hold your place while you finish.
+---
+
+## PART 2 — YOUR FILE · ~45 sec
+
+*Section frame:* **Your answers are building your file. Leave your details so we can hold your place while you finish.**
+
 Name · Email · Phone · Preferred contact (text / email / call) · Contact permission (Yes/No)
-*You will never see our clients named anywhere. That's deliberate — discretion is part of the service.*
-*Fire: endowment ("your file") + discretion as status. Read: compliance gate + first personalization datum. Every Step-3 abandon is now a contactable partial lead (W-PL workflow stands).*
 
-## STEP 3 — Depth
+> You will never see our clients named anywhere. That's deliberate — discretion is part of the service.
 
-**Q5 — What are you currently doing?** *(open text)*
-"Training, nutrition, supplements, devices, doctors, practitioners — list it all, shorthand is fine. On the call we sort it together: what's working, what's noise, what's missing."
-*Read: protocol inventory → fad audit, spend history. Fire: effort justification + collaborative relief. (→ History / What he does now.)*
+---
 
-**Q6 — Have you tried anything like this before? If so, how did it go?** *(open text)*
-*Ben's line, verbatim (Sep 28: "Move this question to the application"). Read: prior-attempt outcomes — the false-certainty cross-check against Q5/Q10 confidence, and the perceived-obstacle preview ("what's held you back before"). Fire: effort surfaced without judgment. NEW relative to Aug 3 base.*
+## PART 3 — WHAT YOU'VE DONE · ~2 min (voice or typed)
 
-**Q7 — What are you actually looking for?**
-- A complete system, run by a team, that I execute
-- The one operator who ties all my other experts together
-- Accountability — I know what to do, I just don't do it consistently
-- Information — I want to learn more before I decide
-*Fire: three committed-man identities. Read: buying mode; the information-seeker self-identifies out (cleanest disqualifier in the field).*
+*Section frame:* **Your history. On the call, this is where we start.**
+
+**Q6 — What are you currently doing?** *(open — type it or dictate it)*
+*Micro-copy: Training, nutrition, supplements, devices, doctors, practitioners — list it all, shorthand is fine. On the call we sort it together: what's working, what's noise, what's missing.*
+
+**Q7 — Have you tried anything like this before? If so, how did it go?** *(open — type it or dictate it)*
+*Micro-copy: Patterns matter more than attempts. What you tried, what happened, and where it broke tells your coach what the plan has to survive.*
+
+---
+
+## PART 4 — WHY NOW · ~45 sec, taps
+
+*Section frame:* **Why it's important, and why now. The two questions every serious decision answers.**
 
 **Q8 — What triggered this application — right now, not six months ago?**
 - A moment I couldn't ignore — a photo, a comment, a medical result
@@ -71,71 +89,69 @@ Name · Email · Phone · Preferred contact (text / email / call) · Contact per
 - My performance, energy, or sharpness has been declining and I'm done accepting it
 - My business has crossed a threshold — my body needs to match that level
 - I've been almost ready for a while. Something shifted and I decided: now
-*Fire: first-person committed voice = self-persuasion; recognition beats recall under friction. Read: trigger type → urgency curve + the register the advisor opens in. (→ Timelines.)*
 
 **Q9 — If nothing changes in the next 12 months, what does it cost you?**
 - Business momentum and leadership capacity
 - My health keeps deteriorating — and I know where that leads
 - The people closest to me keep paying for it
 - All of the above — I understand it compounds
-*Read: stakes frame (business / mortality / family); "it compounds" = highest readiness. Loss aversion is the strongest single motivator in this demographic. Sales use: closing language.*
 
-**Q10 — What are you committed to changing?** *(open text)* "Be specific."
-*Ben's line, verbatim (Aug 3). Fire: written, self-generated, specific commitment — the strongest behavioral instrument in the application. Read: specificity IS the readiness diagnostic; advisor reads it verbatim pre-call.*
+---
 
-**Q11 — When would you want to start?**
+## PART 5 — THE FIT · ~75 sec
+
+*Section frame:* **Last part. This is how we decide, and how fast we can move.**
+
+**Q10 — What are you actually looking for?**
+- A complete system, run by a team, that I execute
+- The one operator who ties all my other experts together
+- Accountability — I know what to do, I just don't do it consistently
+- Information — I want to learn more before I decide
+
+**Q11 — What are you committed to changing?** *(open — type it or dictate it)*
+*Micro-copy: Be specific. Your advisor reads every word of this before your call.*
+
+**Q12 — When would you want to start?**
 Next 7 days · Next 30 days · Next 90 days · Not sure yet
-*Fire: presupposes fit without pressure. Read: urgency routing; "Not sure yet" gates to nurture. (→ Timelines.)*
 
-**Q12 — When you decide something like this, is it your call alone?**
+**Q13 — When you decide something like this, is it your call alone?**
 Entirely mine · Mine, but I'll talk it through with my partner · We decide together
-*Deliberately neutral, one tap. Read: decision unit — tells the advisor whether a spouse needs pre-framing or a seat on the call. Pure close-rate lever.*
 
-**REMOVED from the Aug 3 base (Ben, Oct 17: "don't worry about costs — just finish the questions"):**
-- ~~Q11 old — "When did you last invest four or five figures in yourself…"~~ (investment-behavior qualifier + Rolex framing)
-- All income brackets and investment-alignment tiers from the Jul and Sep versions.
-*The Rolex dissonance line moves to the sales call / pre-call sequence, where it still earns its keep without adding form friction.*
+---
 
-## ROUTING (automated)
+## ROUTING (unchanged)
+Under 35 · Q10 = Information · Q12 = Not sure yet · no contact permission → Nurture. Everything else → calendar. Q13 ≠ "entirely mine" → partner asset offered pre-call (suggestion, pending Ben). Abandon after Part 2 → partial-lead workflow.
 
-| Condition | Route |
-|---|---|
-| Under 35 | Nurture |
-| Q7 = Information | Nurture |
-| Q11 = Not sure yet | Nurture |
-| Contact permission = No | Nurture |
-| Everything else | Calendar + Audit |
+## CALENDAR SCREEN · booking + $500
+> **The Audit — sixty minutes with your advisor. $500.**
+> Your numbers against the standards for a man your age, your constraint named, and the first layer of your Blueprint drawn live.
+> Choose a time you will keep. We hold this spot for you, and we don't reschedule no-shows.
 
-Soft signal (never gates alone): Q12 = "We decide together."
+## CONFIRMATION SCREEN — the call preframe (Ben's frame, verbatim, now copy)
+> Booked. Here's exactly what your call is:
+> **We have 20 minutes and we get through four things: your history, your goals, your obstacles, and why now is the time. Then, if we can help, your advisor will tell you how we can help.**
+> You've already given us the first draft of all four. Before the call, complete your Coach Brief — ten minutes, and your advisor builds your file from it.
+> The men who show up having done this walk away with a Blueprint. The ones who don't spend the hour catching up.
+> [ Open your Coach Brief ]
 
-## CALENDAR SCREEN
+*(The Coach Brief — 90-day domino · 12-month vision · 5–10 year optional · the moment you knew · complaints · physical limitation · what could derail this · the 10-area grid — is the next build, full copy to follow. The recall video plays on this page.)*
 
-**The Audit — sixty minutes with your advisor. $500.**
-Your numbers against the standards for a man your age, your constraint named, and the first layer of your Blueprint drawn live.
-Choose a time you will keep. We hold this spot for you, and we don't reschedule no-shows.
-*The $500 is a commitment device, not revenue — paid appointments show up. Naming the deliverables converts fee to purchase. Stands from the Aug 3 build; strike this screen's fee only if Ben says so explicitly.*
+---
 
-## POST-BOOKING CAPTURE (completion near-certain; answers honest — decision already made)
+## THE CALL SHEET — how the application feeds the 20 minutes
 
-Booked. Your advisor reads every word you write and builds your brief before the call. Two minutes now makes that brief precise.
+| Call topic (Ben's frame) | He already gave us | Advisor opens with |
+|---|---|---|
+| 1. Your history | Q6 current protocol · Q7 tried before + Brief: complaints, limitation | "You've run [X] — and it broke at [his words]. Let's find out why." |
+| 2. Your goals | Q4 top-two · Q11 commitment + Brief: 90-day domino, 12-month vision | His own sentences, read back |
+| 3. Your obstacles | Q3 sting · Q7 pattern + Brief: derail question, grid Failings | "You marked [area] failing — tell me about that." |
+| 4. Why it matters, why now | Q8 trigger · Q9 cost + Brief: the moment you knew | The moment, verbatim — the call starts here |
+| → The offer | Q10 buying mode · Q12 timing · Q13 decision unit · Q5 confidence | How to present, how fast to move, who else is in the room |
 
-**P1 — Write down the moment you knew something had to change.** *(open text)*
-"The photo. The number on a screen. The thing someone said. The mirror. We'll start the call there."
-*Locked line (Aug 3). Fire: peak emotional recall, committed to writing, opens the call. Read: the origin moment, verbatim — mirrored in the first two minutes.*
+## SCORE AGAINST THE FIVE JOBS
 
-**P2 — What does operating at your actual best look like?** *(open text)*
-"Be specific. How does it change how you look, feel, lead, and show up — in your business, with your family? Three sentences minimum."
-*Fire: possible-selves effect — approach counterweight to P1's loss frame. Read: the destination in his own words → Blueprint language.*
-
-**P3 — Anything else you'd like us to know about you?** *(open text, skippable)*
-"Some men want to share their story. Others keep it for the call. Both are the right answer."
-*Fire: honored autonomy increases disclosure. Read: unsolicited disclosure = highest-signal text in the file.*
-
-## CONFIRMATION + PRE-WORK
-Unchanged from Aug 3 (Standard Test link · sit with the P1 moment · current protocol in front of him), with the recall video playing on this page (post-application video skipped per Sep 28 — existing video stands in).
-
-## The psychological arc
-Seen → stung → prioritized → committed contact → effort surfaced (Q5) → history surfaced (Q6) → buying mode declared (Q7) → trigger named (Q8) → stakes named (Q9, loss) → commitment written (Q10) → timeline claimed (Q11) → decision unit read (Q12) → paid → origin moment written (P1, loss) → best self written (P2, approach) → open door (P3). He arrives carrying both frames. Cost questions: zero.
-
-## Coverage vs. the Client Intelligence Map
-History (Q5, Q6) · Obstacles-perceived preview (Q6) · Expectations opener (Q7) · Capacity read (Q5×Q6×Q10 calibration → archetype) · Timelines (Q4, Q8, Q11) · Constraints preview (Q12 people factor) · Lifestyle — deliberately deferred to onboarding (keeps the form at 4 minutes). The PPLD and Sittings 1–3 carry the rest.
+1. **Does he know more about what we do?** Yes, by thread not by pitch: the micro-copy names the machine piece by piece (your file → your advisor → your coach → the standards → the Blueprint → the Audit's deliverables). The confirmation screen states the call's exact shape. Full education still finishes in the pre-call sequence — the application now carries its share.
+2. **Does he know we're the best?** Shown, never claimed: ten men per month · questions he's never been asked · the standards declaration · a $500 audit with named deliverables · "your advisor reads every word." Facts carry it; zero adjectives.
+3. **Self-aware of his limitations?** Started here (the sting, the confidence read, "how did it go"), completed in the Brief (complaints, limitation, the grid — where he watches himself mark Failing). Deliberately split: awareness deepens as commitment deepens.
+4. **Ammunition for the call?** The call sheet above — every one of the four topics pre-loaded with his verbatim words, plus the close-mode reads (Q10/Q12/Q13/Q5).
+5. **Gets him to the 20-minute frame?** The sections mirror the four topics; the confirmation screen states the frame in your exact words; the advisor opens a call that's already half-done.
