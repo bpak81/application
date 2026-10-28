@@ -22,7 +22,7 @@
 *Frame:* **Before we get into the systems, we want to be crystal clear on what we're actually building toward.**
 
 **B1 — What's the single most important thing you want to achieve in the next 90 days?** *(required)*
-*The first domino. This is what your coach builds your Phase 1 protocol around. Be specific — "feel better" doesn't give us anything to work with. "Sleep through the night without waking at 3am, drop 10 pounds, and have steady energy through a 12-hour workday" gives us everything.*
+*The first domino. This is what your coach builds your Phase 1 protocol around. Be specific — "feel better" doesn't give us anything to work with. "Sleep through the night without waking at 3am, drop 10 pounds, and have steady energy through a 12-hour workday" gives us everything. If nothing is urgent, say so — some men come for the long game, and that changes how we build Phase 1.*
 
 **B2 — If we look 12 months out and we've nailed it — what's true about your body and your life that isn't true today?** *(required)*
 *The vision. Your coach uses this to sequence the year and decide which standards to introduce when.*

@@ -27,10 +27,13 @@ Under 35 · 35–39 · 40–44 · 45–49 · 50–54 · 55–59 · 60+
 
 **Q2 — Which of these sounds most like you right now?**
 - I know what to do. I just don't execute it consistently.
+- I'm working as hard as ever — and the results stopped matching the effort.
 - I've hired the experts — trainer, doctor, clinic — and none of them talk to each other.
 - My body has gotten more complicated with age, and guessing isn't working anymore.
+- Nothing is broken — I want a higher ceiling than I can reach on my own.
 - I've put this off for years, and it's starting to cost me.
 - Other: ___
+*(Six mirrors, one per state: consistency / effort-return (Grinder) / integration / complexity / ceiling (Operator) / avoidance. Added 2026-10-28 per Ben — the prior set forced Grinders and Operators into "Other.")*
 
 **Q3 — What's the biggest bottleneck stealing your effectiveness?** *(choose the one that stings)*
 - My body — energy, weight, strength, pain
@@ -44,11 +47,19 @@ Under 35 · 35–39 · 40–44 · 45–49 · 50–54 · 55–59 · 60+
 > Whichever you chose — it's the one place you've accepted a standard you'd never accept in business. That gap is where we work.
 > The men who succeed here train four to five times a week, follow the plan they're given, and are done waiting.
 
-**Q4 — What matters most to you in the next 12 months?** *(choose your top two)*
+**Q4 — What's driving this, right now?**
+- Something specific I want fixed now — pain, sleep, weight, energy
+- A constraint that's limiting everything else I do
+- Nothing's on fire — I'm building toward a 12-month standard
+- Both — fix the immediate thing, then build the system
+*Micro-copy: Some men come with a problem to remove. Some come for the long game. Both are the right reason — this tells your coach where to start.*
+*(Added 2026-10-28 per Ben's two-timelines rule: Now — a problem to solve or constraint to remove immediately — and the 12-month targets are equally important, and either one may lead. Read: pain-led vs. vision-led → sets the call register; Operator rule applies to vision-led men.)*
+
+**Q5 — What matters most to you in the next 12 months?** *(choose your top two)*
 The way you look · The way you feel · The way you perform · Healthspan and longevity
 *Micro-copy: Your top two set the order your coach builds in. Everything gets addressed; these go first.*
 
-**Q5 — How confident are you that you'll succeed this time?**
+**Q6 — How confident are you that you'll succeed this time?**
 - Completely — I just need the right system
 - Confident, if the plan is actually built for me
 - Honestly, 50-50
@@ -71,10 +82,10 @@ Name · Email · Phone · Preferred contact (text / email / call) · Contact per
 
 *Section frame:* **Your history. On the call, this is where we start.**
 
-**Q6 — What are you currently doing?** *(open — type it or dictate it)*
+**Q7 — What are you currently doing?** *(open — type it or dictate it)*
 *Micro-copy: Training, nutrition, supplements, devices, doctors, practitioners — list it all, shorthand is fine. On the call we sort it together: what's working, what's noise, what's missing.*
 
-**Q7 — Have you tried anything like this before? If so, how did it go?** *(open — type it or dictate it)*
+**Q8 — Have you tried anything like this before? If so, how did it go?** *(open — type it or dictate it)*
 *Micro-copy: Patterns matter more than attempts. What you tried, what happened, and where it broke tells your coach what the plan has to survive.*
 
 ---
@@ -83,14 +94,14 @@ Name · Email · Phone · Preferred contact (text / email / call) · Contact per
 
 *Section frame:* **Why it's important, and why now. The two questions every serious decision answers.**
 
-**Q8 — What triggered this application — right now, not six months ago?**
+**Q9 — What triggered this application — right now, not six months ago?**
 - A moment I couldn't ignore — a photo, a comment, a medical result
 - A milestone is approaching and I refuse to arrive in this condition
 - My performance, energy, or sharpness has been declining and I'm done accepting it
 - My business has crossed a threshold — my body needs to match that level
 - I've been almost ready for a while. Something shifted and I decided: now
 
-**Q9 — If nothing changes in the next 12 months, what does it cost you?**
+**Q10 — If nothing changes in the next 12 months, what does it cost you?**
 - Business momentum and leadership capacity
 - My health keeps deteriorating — and I know where that leads
 - The people closest to me keep paying for it
@@ -102,25 +113,25 @@ Name · Email · Phone · Preferred contact (text / email / call) · Contact per
 
 *Section frame:* **Last part. This is how we decide, and how fast we can move.**
 
-**Q10 — What are you actually looking for?**
+**Q11 — What are you actually looking for?**
 - A complete system, run by a team, that I execute
 - The one operator who ties all my other experts together
 - Accountability — I know what to do, I just don't do it consistently
 - Information — I want to learn more before I decide
 
-**Q11 — What are you committed to changing?** *(open — type it or dictate it)*
+**Q12 — What are you committed to changing?** *(open — type it or dictate it)*
 *Micro-copy: Be specific. Your advisor reads every word of this before your call.*
 
-**Q12 — When would you want to start?**
+**Q13 — When would you want to start?**
 Next 7 days · Next 30 days · Next 90 days · Not sure yet
 
-**Q13 — When you decide something like this, is it your call alone?**
+**Q14 — When you decide something like this, is it your call alone?**
 Entirely mine · Mine, but I'll talk it through with my partner · We decide together
 
 ---
 
 ## ROUTING (unchanged)
-Under 35 · Q10 = Information · Q12 = Not sure yet · no contact permission → Nurture. Everything else → calendar. Q13 ≠ "entirely mine" → partner asset offered pre-call (suggestion, pending Ben). Abandon after Part 2 → partial-lead workflow.
+Under 35 · Q11 = Information · Q13 = Not sure yet · no contact permission → Nurture. Everything else → calendar. Q14 ≠ "entirely mine" → partner asset offered pre-call (suggestion, pending Ben). Abandon after Part 2 → partial-lead workflow.
 
 ## CALENDAR SCREEN · booking + $500
 > **The Audit — sixty minutes with your advisor. $500.**
@@ -142,11 +153,11 @@ Under 35 · Q10 = Information · Q12 = Not sure yet · no contact permission →
 
 | Call topic (Ben's frame) | He already gave us | Advisor opens with |
 |---|---|---|
-| 1. Your history | Q6 current protocol · Q7 tried before + Brief: complaints, limitation | "You've run [X] — and it broke at [his words]. Let's find out why." |
-| 2. Your goals | Q4 top-two · Q11 commitment + Brief: 90-day domino, 12-month vision | His own sentences, read back |
-| 3. Your obstacles | Q3 sting · Q7 pattern + Brief: derail question, grid Failings | "You marked [area] failing — tell me about that." |
-| 4. Why it matters, why now | Q8 trigger · Q9 cost + Brief: the moment you knew | The moment, verbatim — the call starts here |
-| → The offer | Q10 buying mode · Q12 timing · Q13 decision unit · Q5 confidence | How to present, how fast to move, who else is in the room |
+| 1. Your history | Q7 current protocol · Q8 tried before + Brief: complaints, limitation | "You've run [X] — and it broke at [his words]. Let's find out why." |
+| 2. Your goals | Q4 now-vs-build · Q5 top-two · Q12 commitment + Brief: 90-day domino, 12-month vision | His own sentences, read back |
+| 3. Your obstacles | Q3 sting · Q8 pattern + Brief: derail question, grid Failings | "You marked [area] failing — tell me about that." |
+| 4. Why it matters, why now | Q9 trigger · Q10 cost · Q4 (pain-led or vision-led) + Brief: the moment you knew | The moment, verbatim — the call starts here |
+| → The offer | Q11 buying mode · Q13 timing · Q14 decision unit · Q6 confidence | How to present, how fast to move, who else is in the room |
 
 ## SCORE AGAINST THE FIVE JOBS
 
