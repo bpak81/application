@@ -1,6 +1,8 @@
 # MHS — Ultra-Critical Review + the v2 Intelligence Taxonomy
 **Date:** 2026-10-28 · Ordered by severity, not by phase. Then Ben's new inputs (8-area taxonomy, Defining Success, cumulative principle) reconciled against what's built: already covered / newly added / genuinely missing.
 
+> **Source note (added after Ben's audit request, same day):** findings sourced from Ben's own rulings and canon are marked in `MHS-SOURCE-AUDIT.md`; items A0-4 (metrics), the booking-page social-proof line, voice input, and the spouse pre-call asset are Claude suggestions — take or leave. A0-3's fly-in framing was Claude extrapolation and is struck; see R-1 below.
+
 ---
 
 ## PART A — The critique. What's weak, phase by phase.
@@ -107,7 +109,7 @@ This was implicit in the canon; it is now a stated law and the first test applie
 
 | # | Decision | Rec. |
 |---|---|---|
-| R-1 | Gym session logistics: client flies in (offer feature) / Ben travels / remote screen fallback | Fly-in, framed as a feature of the $84K |
+| R-1 | Gym session: how does it run for a client who isn't local? (Undefined — your call; no recommendation) | — |
 | R-2 | "Ten men per month" and "no reschedule" lines: true as written? | State only what will be enforced |
 | R-3 | $500 Audit: credited to program on join? policy if no-buy? | Credit on join; keep on no-show |
 | R-4 | v2 additions in forms (45 min) vs. split with Blueprint Call (38 min + richer call) | Split: walk-through + relationship-with-outcome to the call |
